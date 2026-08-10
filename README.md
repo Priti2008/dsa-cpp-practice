@@ -2,7 +2,11 @@
 
 Daily DSA practice in C++.
 
-## Day 1
-- Find the largest element in an array
-- Find the smallest element in an array
+## Day 1 - Arrays
+
+- Largest element
+- Smallest element
+- Sum of array
+- Average of array
+- Count even numbers
   
