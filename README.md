@@ -10,3 +10,7 @@ Daily DSA practice in C++.
 - Average of array
 - Count even numbers
 - Count odd numbers
+
+## Day 2 - Arrays
+
+- Reverse array
