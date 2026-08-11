@@ -9,4 +9,4 @@ Daily DSA practice in C++.
 - Sum of array
 - Average of array
 - Count even numbers
-  
+- Count odd numbers
