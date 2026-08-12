@@ -14,3 +14,8 @@ Daily DSA practice in C++.
 ## Day 2 - Arrays
 
 - Reverse array
+- Print alternate elements
+
+## Day 3 - Arrays
+
+- Search an element
