@@ -23,3 +23,4 @@ Daily DSA practice in C++.
 ## Day 4 - Arrays
 
 - Two Sum
+- mergeSort
