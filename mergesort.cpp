@@ -19,26 +19,25 @@ void merge(int a[], int left, int mid, int right) {
 
     while (i < n1 && j < n2) {
         if (L[i] <= R[j]) {
-            a[k] = L[i];
-            i++;
+            a[k] = L[i++];
+            
         } else {
-            a[k] = R[j];
-            j++;
+            a[k++] = R[j++];
+            
         }
-        k++;
+       // k++;
     }
 
     // Copy remaining elements
     while (i < n1) {
-        a[k] = L[i];
-        i++;
-        k++;
+        a[k] = L[i++];
+        
     }
 
     while (j < n2) {
-        a[k] = R[j];
-        j++;
-        k++;
+        a[k++] = R[j++];
+        // j++;
+        // k++;
     }
 }
 
