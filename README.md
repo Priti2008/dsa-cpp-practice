@@ -23,4 +23,12 @@ Daily DSA practice in C++.
 ## Day 4 - Arrays
 
 - Two Sum
-- mergeSort
+
+## Day 5 - Sorting & Graph / DFS
+
+- Merge Sort
+- Number of Islands
+
+- Second largest element
+- Second smallest element
+- Check if array is sorted
