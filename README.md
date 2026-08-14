@@ -24,11 +24,10 @@ Daily DSA practice in C++.
 
 - Two Sum
 
-## Day 5 - Sorting & Graph / DFS
+## Day 5 - Sorting
 
 - Merge Sort
-- Number of Islands
 
-- Second largest element
-- Second smallest element
-- Check if array is sorted
+## Day 6 - Graph / DFS
+
+- Number of Islands
