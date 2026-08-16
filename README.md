@@ -38,5 +38,8 @@ Daily DSA practice in C++.
 ## Day 7 - Arrays & Strings
 
 - Remove duplicates from sorted array
+## Day 8 - DFS
+
+- Flood Fill
 
   
