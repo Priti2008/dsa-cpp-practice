@@ -41,5 +41,6 @@ Daily DSA practice in C++.
 ## Day 8 - DFS
 
 - Flood Fill
+- quicksort
 
   
