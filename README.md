@@ -47,5 +47,7 @@ Daily DSA practice in C++.
 --largest and second largest
 ## Day 10 -
 --Largest Number At Least Twice of Others
+## Day 11 - merge sort
+--Sort an array
 
   
