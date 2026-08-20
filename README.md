@@ -44,6 +44,6 @@ Daily DSA practice in C++.
 ## Day 10 -
 --Largest Number At Least Twice of Others
 ## Day 11 - merge sort
---Sliding array
+--Sliding window
 
   
