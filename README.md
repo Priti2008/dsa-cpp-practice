@@ -31,15 +31,11 @@ Daily DSA practice in C++.
 ## Day 6 - Graph / DFS
 - Number of Islands
 ## Day 7 - Arrays & Strings
-
 - Remove duplicates from sorted array
-
-
 ## Day 7 - Arrays & Strings
 
 - Remove duplicates from sorted array
 ## Day 8 - DFS
-
 - Flood Fill
 - quicksort
 ## Day 9 - Strings
@@ -49,5 +45,6 @@ Daily DSA practice in C++.
 --Largest Number At Least Twice of Others
 ## Day 11 - merge sort
 --Sort an array
+
 
   
