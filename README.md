@@ -19,6 +19,7 @@ Daily DSA practice in C++.
 ## Day 3 - Arrays
 
 - Search an element
+- String to Integer (atoi)
 
 ## Day 4 - Arrays
 
