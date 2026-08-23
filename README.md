@@ -46,5 +46,7 @@ Daily DSA practice in C++.
 --Largest Number At Least Twice of Others
 ## Day 11 - merge sort
 --Sliding window
+## Day 12
+--intersection of two array
 
   
