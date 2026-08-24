@@ -48,5 +48,7 @@ Daily DSA practice in C++.
 --Sliding window
 ## Day 12
 --intersection of two array
+## Day 13
+--MageneticForce between two ball
 
   
