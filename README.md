@@ -50,5 +50,7 @@ Daily DSA practice in C++.
 --intersection of two array
 ## Day 13
 --MageneticForce between two ball
+## Day 14-hashing
+--Happy nmber
 
   
