@@ -52,5 +52,7 @@ Daily DSA practice in C++.
 --MageneticForce between two ball
 ## Day 14-hashing
 --Happy nmber
+## Day 15
+--binary Search
 
   
