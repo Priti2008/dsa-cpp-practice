@@ -32,7 +32,7 @@ void merge(vector<int>& a, vector<int>& b, vector<int>& res) {
 void mergeSort(vector<int>& v) {
     int n = v.size();
 
-    if (n <= 1) return;   // FIXED
+    if (n == 1) return;   
 
     int n1 = n / 2;
     int n2 = n - n / 2;

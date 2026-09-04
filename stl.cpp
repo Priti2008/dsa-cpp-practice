@@ -1,7 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-    vector<int> arr={1,2,3};
-    sort(arr.begin(),arr.end());
-    cout<<arr[0];
-}
+    queue<int> q;
+    q.push(1);
+    q.push(2);
+    q.emplace(4);
+    q.back()+=5
+    cout<<
