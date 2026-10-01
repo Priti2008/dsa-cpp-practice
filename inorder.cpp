@@ -1,3 +1,44 @@
+// #include <bits/stdc++.h>
+// using namespace std;
+
+// struct Node {
+//     int data;
+//     Node* left;
+//     Node* right;
+
+//     Node(int value) {
+//         data = value;
+//         left = NULL;
+//         right = NULL;
+//     }
+// };
+
+// void preorder(Node* root) {
+
+//     if (root == NULL)
+//         return;
+
+//     cout << root->data << " ";
+
+//     preorder(root->left);
+//     preorder(root->right);
+// }
+
+// int main() {
+
+//     Node* root = new Node(1);
+
+//     root->left = new Node(2);
+//     root->right = new Node(3);
+
+//     root->left->left = new Node(4);
+//     root->left->right = new Node(5);
+
+//     cout << "Preorder: ";
+//     preorder(root);
+
+//     return 0;
+// }
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -13,15 +54,16 @@ struct Node {
     }
 };
 
-void preorder(Node* root) {
+void inorder(Node* root) {
 
     if (root == NULL)
         return;
 
+    inorder(root->left);
+
     cout << root->data << " ";
 
-    preorder(root->left);
-    preorder(root->right);
+    inorder(root->right);
 }
 
 int main() {
@@ -34,8 +76,8 @@ int main() {
     root->left->left = new Node(4);
     root->left->right = new Node(5);
 
-    cout << "Preorder: ";
-    preorder(root);
+    cout << "Inorder: ";
+    inorder(root);
 
     return 0;
 }
